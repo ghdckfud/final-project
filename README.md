@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 </head>
 <body>
-  <h1><a href="1.html">무인 시스템</a></h1>
+  <h1><a href="main screen.html">무인 시스템</a></h1>
   <h2>식당 무인 시스템 관리</h2>
 
   <h4>
