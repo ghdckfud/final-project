@@ -23,7 +23,6 @@
   무인 PC방 충전기 부터 무인 주문시스템까지 나오고 있습니다. <a href="http://www.etoday.co.kr/news/section/newsview.php?idxno=1630150" target="_blank">한 뉴스</a>에 따르면 무인시스템 사용시 매출이 올랐다고 보도 됩니다.<br>
   그래서 저는 이 무인시스템이 어떤식으로 운영되는지 궁금해서 이 주제를 선정하였습니다.<br>
   그래서 무인식당의 <strong>시스템을 데이터베이스</strong>로 구축해 보았습니다.<br>
-  <img src="무인시스템1.jpg" width=400>
-  <img src="무인시스템2.jpg" width=400>
+  <img src="무인시스템1.jpg" width=400><img src="무인시스템2.jpg" width=400>
 </body>
 </html>
